@@ -18,7 +18,7 @@ LOCAL_RESOURCE_DIR += $(LOCAL_PATH)/res
 
 LOCAL_AAPT_FLAGS := --auto-add-overlay
 
-LOCAL_PACKAGE_NAME := Gallery2
+LOCAL_PACKAGE_NAME := OmniGallery
 
 LOCAL_CERTIFICATE := platform
 
